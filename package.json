@@ -1,0 +1,25 @@
+{
+  "name": "espresso_rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "dispatch": "^1.0.1",
+    "mongodb": "^2.2.16",
+    "path-to-regexp": "^1.7.0",
+    "protocol-buffers": "^3.2.1",
+    "request": "^2.79.0"
+  },
+  "start": "node app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.evennode.com:ecf25c900b49954feb52f907de4d102d.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
